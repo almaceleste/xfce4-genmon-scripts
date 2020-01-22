@@ -10,9 +10,17 @@ this is my repo of scripts for use with Xfce4 panel generic monitor (xfce4-genmo
 ```
 sudo apt install xfce4-panel xfce4-genmon-plugin
 ```
-##### install dependencies in Fedora, openSuse and some other rpm distros
+##### install dependencies in Fedora
+```
+sudo dnf install xfce4-panel xfce4-genmon-plugin
+```
+##### install dependencies in openSuse
 ```
 sudo zypper install xfce4-panel xfce4-genmon-plugin
+```
+##### install dependencies in some rpm distros
+```
+sudo rpm --install xfce4-panel xfce4-genmon-plugin
 ```
 
 #### license  
