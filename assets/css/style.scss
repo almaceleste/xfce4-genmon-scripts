@@ -5,13 +5,23 @@
 
 a:hover {
     color: deepskyblue;
+    font-weight: unset;
     text-shadow: 0 0 1px #111, 0 0 3px #111, 0 0 5px #111, 0 0 5px #111;
+}
+a small {
+    color: #999;
 }
 body {
     background-color: #333;
     color: lightgray;
     text-shadow: 0 0 1px #222, 0 0 3px #222, 0 0 5px #222, 0 0 5px #222;
 }
+code {
+    color: navajowhite;
+}
 h3, h4, h5, h6 {
     color: lightgray;
+}
+pre.highlight {
+    background-color: #555;
 }
