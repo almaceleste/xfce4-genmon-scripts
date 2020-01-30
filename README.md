@@ -1,6 +1,9 @@
 ### about
 this is my repo of the scripts for use with the Xfce4 panel generic monitor (xfce4-genmon-plugin)
 
+#### license  
+[![license](https://img.shields.io/github/license/almaceleste/xfce4-genmon-scripts.svg?longCache=true)](https://github.com/almaceleste/xfce4-genmon-scripts/blob/master/LICENSE)
+
 <!-- #### Wiki -->
 
 #### dependencies
@@ -22,9 +25,6 @@ sudo zypper install xfce4-panel xfce4-genmon-plugin
 ```
 sudo rpm --install xfce4-panel xfce4-genmon-plugin
 ```
-
-#### license  
-[![license](https://img.shields.io/github/license/almaceleste/xfce4-genmon-scripts.svg?longCache=true)](https://github.com/almaceleste/xfce4-genmon-scripts/blob/master/LICENSE)
 
 ### list of scripts 
 #### [xfce4-genmon-cpu.sh](https://github.com/almaceleste/xfce4-genmon-scripts/raw/master/src/xfce4-genmon-cpu.sh 'download')  
