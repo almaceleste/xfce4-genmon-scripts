@@ -1,5 +1,5 @@
 ### about
-this is my repo of scripts for use with Xfce4 panel generic monitor (xfce4-genmon-plugin)
+this is my repo of the scripts for use with the Xfce4 panel generic monitor (xfce4-genmon-plugin)
 
 <!-- #### Wiki -->
 
