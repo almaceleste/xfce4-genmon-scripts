@@ -8,6 +8,9 @@ a:hover {
     font-weight: unset;
     text-shadow: 0 0 1px #111, 0 0 3px #111, 0 0 5px #111, 0 0 5px #111;
 }
+a img:hover {
+    filter: drop-shadow(0 0 3px deepskyblue);
+}
 a small {
     color: #999;
 }
