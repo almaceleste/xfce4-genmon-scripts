@@ -58,5 +58,6 @@ xfce4-genmon script to monitor current swap usage
 * you can change thresholds in the script
 
 ### support me
-[![Beerpay](https://beerpay.io/almaceleste/xfce4-genmon-scripts/badge.svg?style=beer)](https://beerpay.io/almaceleste/xfce4-genmon-scripts) [![Beerpay](https://beerpay.io/almaceleste/xfce4-genmon-scripts/make-wish.svg?style=flat)](https://beerpay.io/almaceleste/xfce4-genmon-scripts?focus=wish)
+<!-- [![Beerpay](https://beerpay.io/almaceleste/xfce4-genmon-scripts/badge.svg?style=beer)](https://beerpay.io/almaceleste/xfce4-genmon-scripts) [![Beerpay](https://beerpay.io/almaceleste/xfce4-genmon-scripts/make-wish.svg?style=flat)](https://beerpay.io/almaceleste/xfce4-genmon-scripts?focus=wish) -->
+[![Ko-fi](/assets/img/Ko-fi_logo_transparent.png)](https://ko-fi.com/almaceleste "bye me cofee")
 [![](https://img.shields.io/badge/Paypal-donate_me-blue.svg?longCache=true&logo=paypal)](https://www.paypal.me/almaceleste "paypal | donate me") 
