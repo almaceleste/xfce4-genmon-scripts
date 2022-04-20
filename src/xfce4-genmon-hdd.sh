@@ -8,7 +8,7 @@ warn=70
 # available space threshold alarm (in GB) - red
 alarm=20
 # mount path
-path="/home"
+path="/home" && [[ $# -ne 0 ]] && path=$1
 
 free=$(df -BG | grep "\s$path$" | awk '{printf "%d", $4}')
 used=$(df -BG | grep "\s$path$" | awk '{printf " %s ", $3}')
