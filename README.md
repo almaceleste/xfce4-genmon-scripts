@@ -62,6 +62,7 @@ xfce4-genmon script to monitor hdd (partition) free space
 * monitors hdd free space in Gigabytes and show it in xfce4-panel in color manner
 * has warning (yellow) and alarm (red) thresholds
 * you can change thresholds in the script
+* by default displays `/home`, but you can specify different path in the first script parameter, such as `.../xfce4-genmon-hdd.sh /opt`
 
 #### [xfce4-genmon-mem.sh](https://github.com/almaceleste/xfce4-genmon-scripts/raw/master/src/xfce4-genmon-mem.sh 'download')
 
