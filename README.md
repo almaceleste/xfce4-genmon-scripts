@@ -80,6 +80,16 @@ xfce4-genmon script to monitor current swap usage
 * has warning (yellow) and alarm (red) thresholds
 * you can change thresholds in the script
 
+#### [xfce4-genmon-uptime.sh](https://github.com/almaceleste/xfce4-genmon-scripts/raw/master/src/xfce4-genmon-uptime.sh 'download')
+
+xfce4-genmon script to display current system uptime
+
+* displays current system uptime
+* has two periods:
+  * first - during which uptime is displayed down to minutes, default 86400 seconds (1 day)
+  * second - during which uptime is displayed down to hours, default 864000 seconds (10 days)
+* you can change periods in the script
+
 ### support me
 <!-- [![Beerpay](https://beerpay.io/almaceleste/xfce4-genmon-scripts/badge.svg?style=beer)](https://beerpay.io/almaceleste/xfce4-genmon-scripts) [![Beerpay](https://beerpay.io/almaceleste/xfce4-genmon-scripts/make-wish.svg?style=flat)](https://beerpay.io/almaceleste/xfce4-genmon-scripts?focus=wish) -->
 [![Ko-fi](/assets/img/Ko-fi_logo_transparent.png)](https://ko-fi.com/almaceleste "bye me cofee")
